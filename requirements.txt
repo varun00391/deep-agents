@@ -1,0 +1,6 @@
+git+https://github.com/hwchase17/deepagents.git
+langchain-core
+langchain-groq
+yfinance
+gradio
+python-dotenv
